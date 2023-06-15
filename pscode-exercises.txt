@@ -12,7 +12,7 @@ Print sum of the two numbers
 Ask user for a number
  Check if number is even
 	If number is even, print Even
-Or
+Else
  Check if number is odd
 	If number is odd, print Odd
 
